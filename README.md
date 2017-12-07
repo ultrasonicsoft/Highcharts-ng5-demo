@@ -26,7 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Installation
 Run `npm install --save highcharts`
+
 Run `npm install --save-dev  @types/highcharts`
+
 Update tsconfig.app.json file
 `"types": [
   "highcharts"
